@@ -1,7 +1,12 @@
 # Nutritionists Copilot Dashboard - Google Cloud Gemini Hackathon
 Authored by **Peter Machonan** for **HeySalad** on 10th Nov 2024
 
-Welcome to the **Nutritionists Copilot Dashboard**! This project is an open-source dashboard tailored specifically for nutritionists. It leverages advanced AI technology, including **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAGs)**, to support nutrition professionals in delivering personalized dietary recommendations, managing client information, and generating insights. 
+Welcome to the **Nutritionists Copilot Dashboard**! This project is an open-source dashboard tailored specifically for nutritionists. 
+It leverages advanced AI technology, including
+-  **Large Language Models (LLMs)**
+-   **Retrieval-Augmented Generation (RAGs)**
+
+to support nutrition professionals in delivering personalized dietary recommendations, managing client information, and generating insights. 
 
 We welcome contributions from developers, nutritionists, and anyone interested in improving this tool.
 
