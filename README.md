@@ -16,8 +16,9 @@ We welcome contributions from developers, nutritionists, and anyone interested i
 
 ## ✨ Features
 - **Client Management**: Easily organize and access client profiles, including dietary preferences, health goals, and nutritional needs.
-**Personalized Recommendations**: Generate customized meal plans and advice using LLMs powered by RAGs to pull from both general and specialized nutritional knowledge.
- **Insight Generation**: Quickly generate insights and data visualizations to track client progress and outcomes.\n- **Scalable and Secure**: Built to handle a range of data while prioritizing privacy and security.
+- **Personalized Recommendations**: Generate customized meal plans and advice using LLMs powered by RAGs to pull from both general and specialized nutritional knowledge.
+- **Insight Generation**: Quickly generate insights and data visualizations to track client progress and outcomes.\n- **Scalable and Secure**: Built to handle a range of data while prioritizing privacy and security.
+
 **Open Source**: We encourage the community to contribute new features, improvements, and bug fixes.
 
 ## 🧠 Technologies
