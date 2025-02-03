@@ -1,5 +1,7 @@
 # Nutritionists Copilot Dashboard - Google Cloud Gemini Hackathon
-Authored by **Peter Machonan** for **HeySalad** Updated: 10th Nov 2024
+SALADHR TECHNOLOGY LTD, LONDON UK
+Authored by **Peter Machonan** for **HeySalad** 10th Nov 2024
+Updated : 03/02/2025
 
 Welcome to the **Nutritionists Copilot Dashboard**! This project is an open-source dashboard tailored specifically for nutritionists. 
 It leverages advanced AI technology, including
