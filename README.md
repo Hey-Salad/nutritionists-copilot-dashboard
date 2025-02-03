@@ -22,14 +22,15 @@ We welcome contributions from developers, nutritionists, and anyone interested i
 ## ✨ Features
 - **Client Management**: Easily organize and access client profiles, including dietary preferences, health goals, and nutritional needs.
 - **Personalized Recommendations**: Generate customized meal plans and advice using LLMs powered by RAGs to pull from both general and specialized nutritional knowledge.
-- **Insight Generation**: Quickly generate insights and data visualizations to track client progress and outcomes.\n- **Scalable and Secure**: Built to handle a range of data while prioritizing privacy and security.
+- **Insight Generation**: Quickly generate insights and data visualizations to track client progress and outcomes.
+- **Scalable and Secure**: Built to handle a range of data while prioritizing privacy and security.
 
 **Open Source**: We encourage the community to contribute new features, improvements, and bug fixes.
 
 ## 🧠 Technologies
 The dashboard utilizes a combination of technologies to deliver an efficient and interactive experience:
-- **Large Language Models (LLMs)**: For generating natural language responses and dietary advice.
-- **Retrieval-Augmented Generation (RAGs)**: Enables precise information retrieval to support evidence-based recommendations.
+- **Large Language Models (LLMs)**: For generating natural language responses and dietary advice. - Google Gemini Intergrated
+- **Retrieval-Augmented Generation (RAG)**: Enables precise information retrieval to support evidence-based recommendations. (Please add your RAG AI API - We will build this later)
 - **Frontend**: Built with [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/), and [React](https://reactjs.org/) for a responsive, user-friendly interface.
 - **Backend**: Integrated with Firebase for authentication, storage, and real-time data handling.
 - **Other Tools**: [Node.js](https://nodejs.org/) and other JavaScript libraries for optimized performance and flexibility.
